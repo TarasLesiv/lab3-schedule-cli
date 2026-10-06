@@ -1,0 +1,253 @@
+{
+ "group": "ФЕІ-23",
+ "course": 2,
+ "schedule": [
+ {
+ "day": "Понеділок",
+ "lessons": [
+ {
+ "pair": 1,
+ "time": "08:30-9:50",
+ "numerator": {
+ "subject": "Математичний аналіз",
+ "type": "Лекція",
+ "teacher": "Цаповська Ж.Я.",
+ "room": "1/Б",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Математичний аналіз",
+ "type": "Практична",
+ "teacher": "Тріщ Б.О.",
+ "room": "209/Т",
+ "isRemote": false
+ }
+ },
+ {
+ "pair": 2,
+ "time": "10:10-11:30",
+ "numerator": {
+ "subject": "ООП",
+ "type": "Лабораторна",
+ "teacher": "Берізка І.С.",
+ "room": "11/Б",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Бази даних",
+ "type": "Лабораторна",
+ "teacher": "Гусак О.В.",
+ "room": "11/Б",
+ "isRemote": false
+ }
+ },
+ {
+ "pair": 3,
+ "time": "11:50-13:10",
+ "numerator": null,
+ "denominator": {
+ "subject": "Англійська мова",
+ "type": "Практична",
+ "teacher": "Довбенко Л.В.",
+ "room": "123/Т",
+ "isRemote": false
+ }
+ }
+ ]
+ },
+ {
+ "day": "Вівторок",
+ "lessons": [
+ {
+ "pair": 1,
+ "time": "08:30-9:50",
+ "numerator": {
+ "subject": "Дискретна математика",
+ "type": "Лекція",
+ "teacher": "Вельгош С.р.",
+ "room": "1/Б",
+ "isRemote": true
+ },
+ "denominator": {
+ "subject": "Дискретна математика",
+ "type": "Практична",
+ "teacher": "Романишин Р.П.",
+ "room": "122/Т",
+ "isRemote": true
+ }
+ },
+ {
+ "pair": 2,
+ "time": "10:10-11:30",
+ "numerator": {
+ "subject": "Веб-програмування",
+ "type": "Лекція",
+ "teacher": "Чмихало О.С.",
+ "room": "1/Б",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Веб-програмування",
+ "type": "Практична",
+ "teacher": "Чмихало О.С.",
+ "room": "1/Б",
+ "isRemote": true
+ }
+ },
+ {
+ "pair": 3,
+ "time": "11:50-13:10",
+ "numerator": {
+ "subject": "Фізика",
+ "type": "Лекція",
+ "teacher": "Бордун О.А.",
+ "room": "1/Б",
+ "isRemote": false
+ },
+ "denominator": null
+ }
+ ]
+ },
+ {
+ "day": "Середа",
+ "lessons": [
+ {
+ "pair": 1,
+ "time": "08:30-9:50",
+ "numerator": {
+ "subject": "Бази даних",
+ "type": "Практична",
+ "teacher": "Гусак О.В.",
+ "room": "11/Б",
+ "isRemote": false
+ },
+ "denominator": null
+ },
+ {
+ "pair": 2,
+ "time": "10:10-11:30",
+ "numerator": {
+ "subject": "Українська мова",
+ "type": "Практична",
+ "teacher": "Хібеба Н.В.",
+ "room": "209/Т",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Українська мова",
+ "type": "Лекція",
+ "teacher": "Щепанська Х.А.",
+ "room": "1/Б",
+ "isRemote": false
+ }
+ },
+ {
+ "pair": 3,
+ "time": "11:50-13:10",
+ "numerator": {
+ "subject": "Фізика",
+ "type": "Практична",
+ "teacher": "Карбовник І.А.",
+ "room": "203/Т",
+ "isRemote": false
+ },
+ "denominator": null
+ }
+ ]
+ },
+ {
+ "day": "Четвер",
+ "lessons": [
+ {
+ "pair": 1,
+ "time": "08:30-9:50",
+ "numerator": {
+ "subject": "ООП",
+ "type": "Лабораторна",
+ "teacher": "Хвищун І.О.",
+ "room": "11/Б",
+ "isRemote": false
+ },
+ "denominator": null
+ },
+ {
+ "pair": 2,
+ "time": "10:10-11:30",
+ "numerator": {
+ "subject": "Математичний аналіз",
+ "type": "Практична",
+ "teacher": "Цаповська Ж.Я.",
+ "room": "209/Т",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Математичний аналіз",
+ "type": "Практична",
+ "teacher": "Цаповська Ж.Я.",
+ "room": "209/Т",
+ "isRemote": false
+ }
+ },
+ {
+ "pair": 3,
+ "time": "11:50-13:10",
+ "numerator": null,
+ "denominator": {
+ "subject": "Англійська мова",
+ "type": "Практична",
+ "teacher": "Довбенко Л.В.",
+ "room": "9/Б",
+ "isRemote": false
+ }
+ }
+ ]
+ },
+ {
+ "day": "П'ятниця",
+ "lessons": [
+ {
+ "pair": 1,
+ "time": "08:30-9:50",
+ "numerator": {
+ "subject": "Веб-програмування",
+ "type": "Лабораторна",
+ "teacher": "Чмихало О.С.",
+ "room": "11/Б",
+ "isRemote": false
+ },
+ "denominator": null
+ },
+ {
+ "pair": 2,
+ "time": "10:10-11:30",
+ "numerator": {
+ "subject": "Українська мова",
+ "type": "Лекція",
+ "teacher": "Щепанська Х.А.",
+ "room": "1/Б",
+ "isRemote": false
+ },
+ "denominator": {
+ "subject": "Українська мова",
+ "type": "Практична",
+ "teacher": "Хібеба Н.В.",
+ "room": "209/Т",
+ "isRemote": false
+ }
+ },
+ {
+ "pair": 3,
+ "time": "11:50-13:10",
+ "numerator": {
+ "subject": "Дискретна математика",
+ "type": "Практична",
+ "teacher": "Романишин Р.В.",
+ "room": "209/Т",
+ "isRemote": false
+ },
+ "denominator": null
+ }
+ ]
+ }
+ ]
+}
