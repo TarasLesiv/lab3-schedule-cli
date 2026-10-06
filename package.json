@@ -1,0 +1,29 @@
+{
+  "name": "lab3-schedule-cli",
+  "version": "1.0.0",
+  "description": "CLI-програма для роботи з розкладом занять (лабораторна робота №3, варіант 1)",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "schedule-cli": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test",
+    "check:data": "jq empty data.json"
+  },
+  "keywords": [
+    "nodejs",
+    "commander",
+    "cli",
+    "schedule"
+  ],
+  "author": "Тарас Лесів",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
+}
