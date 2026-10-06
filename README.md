@@ -132,6 +132,7 @@ lab3-schedule-cli/
 ├── index.js
 ├── package.json
 ├── package-lock.json
+├── report-lab3.docx
 ├── docs/
 │   ├── REPORT.md
 │   ├── STEP_BY_STEP.md
